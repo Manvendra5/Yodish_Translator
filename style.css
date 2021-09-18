@@ -25,14 +25,13 @@ body {
   float: left;
   width: 50%;
   height: 100vh;
-  padding-top: 90px;
 }
 
 .container-center {
   padding: 1rem;
 }
 
-img {
+.left-container img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -73,4 +72,9 @@ img {
   margin-top: 1rem;
   margin-bottom: 1rem;
   padding: 1rem 1.5rem;
+}
+
+#logo {
+  width: 100%;
+  height: 15%;
 }
